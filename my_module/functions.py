@@ -306,7 +306,6 @@ def decode_email(input_string, offset_num, direction = 'left'):
     -------
     output_string : str
         The decoded or not decoded string we got.
-
     """
 
     output_string = ''
