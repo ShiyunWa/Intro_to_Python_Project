@@ -12,7 +12,7 @@ The rest notebook consists of six sections: (1) **Directory** shows the hierarch
 
 This project is based on Python 3.8 (32-bit). The IDE is Visual Studio 2019 16.11.3 version. Moreover, in the zip file I submitted, there are three folders, two particular files of VS 2019, and this Jupyter notebook file, as shown in the below figure.
 
-![image-4.png](attachment:image-4.png)
+![](https://github.com/ShiyunWa/Intro_to_Python_Project/blob/master/1.png)
 
 Except for other configuration folders and files, I will explain what the `my_module` and `script` folders exactly contain here, which are more related to our project task.
 
